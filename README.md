@@ -23,6 +23,9 @@ The program calculates the prices based on the type of vehicle and repair servic
 <h3> 3. Price calculation:</h3>The program calculates the cost of the selected service based on the type of vehicle and the type of repair needed.
 <h3> 4. Invoice generation:</h3>Once the service is completed, an invoice is generated with details of the services provided and the cost.
 
+,,,,,,,,
+![Screenshot 2023-04-07 150603](https://user-images.githubusercontent.com/112173630/230588978-d4705498-60b6-4be0-b78d-994f736ce361.png)
+
 
 # Instructions
 ### To run the application, follow these steps:
